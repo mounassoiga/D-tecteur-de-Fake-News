@@ -1,4 +1,5 @@
-<img width="945" height="267" alt="image" src="https://github.com/user-attachments/assets/f2d39a3d-469e-4d0d-9145-9bc6a8027bcb" />Ce projet utilise l'intelligence artificielle pour classifier automatiquement des articles de presse en deux catégories : Vrai (REAL) ou Faux (FAKE).
+<img width="945" height="267" alt="image" src="https://github.com/user-attachments/assets/f2d39a3d-469e-4d0d-9145-9bc6a8027bcb" />
+Ce projet utilise l'intelligence artificielle pour classifier automatiquement des articles de presse en deux catégories : Vrai (REAL) ou Faux (FAKE).
 
 📝 Description
 L'objectif est de fournir un outil capable d'analyser le style et le contenu d'un texte pour identifier les signaux de désinformation. 
